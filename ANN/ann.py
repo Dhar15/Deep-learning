@@ -1,3 +1,5 @@
+#AN EXAMPLE OF ARTIFICIAL NEURAL NETWORK
+
 #Importing libraries
 import numpy as np
 import pandas as pd
